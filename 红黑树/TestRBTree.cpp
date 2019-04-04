@@ -18,7 +18,7 @@ void TestRBTree()
 	if (ret == true)
 		cout << "RBTree is in Balanced !" << endl;
 	else
-		cout << "RBTree 不不不不不不 not in a state of balance !" << endl;
+		cout << "RBTree not in a state of balance !" << endl;
 
 }
 
